@@ -18,5 +18,6 @@ This README details (in part) the key components of the program and how they wor
 
 5. Run the simulation
 
-6. Use the map window to visualise the movement of people and propagation of the disease, and the graph window to see the live S/E/I/R/D
+6. Use the map window to visualise the movement of people and propagation of the disease, and the graph window to see the live S/E/I/R/D curves
+
 
