@@ -8,9 +8,9 @@ This README details (in part) the key components of the program and how they wor
 
 ## Run
 
-1. Install poetry by `pip install poetry`
+1. Install poetry with `pip install poetry`
 
-2. Navigate to the directory in which the code is saved with `cd <PATH>`
+2. Navigate to the directory in which the code is saved by `cd <PATH>`
 
 3. Run the program using `poetry run python main.py`
 
@@ -18,4 +18,5 @@ This README details (in part) the key components of the program and how they wor
 
 5. Run the simulation
 
-6. Use the map window to visualise the movement of people and propogation of the disease, and the graph window to see the live S/E/I/R/D
+6. Use the map window to visualise the movement of people and propagation of the disease, and the graph window to see the live S/E/I/R/D
+
