@@ -16,7 +16,7 @@ Classes:
 """
 
 import pygame
-import interface
+from . import interface
 from . import sql_handler
 from . import display
 from . import create_map
